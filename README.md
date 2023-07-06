@@ -32,6 +32,15 @@
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)  
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)  
 ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)  
-# 📊 GitHub Stats:
+### ⚙️ GitHub статистика:
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Konstantin-Mosenkov&theme=radical&include_all_commits=true&count_private=true&layout=compact)
+<table>
+  <tr>
+    <td>
+      <img align="left" src="http://github-readme-streak-stats.herokuapp.com?user=Konstantin-Mosenkov&theme=dark&background=000000" alt="webDev's Github stats" />
+    </td>
+    <td>
+      <img height="195px" align="right" alt="webDev's Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Konstantin-Mosenkov&layout=compact&theme=vision-friendly-dark" />
+    </td>
+  </tr>
+</table>
