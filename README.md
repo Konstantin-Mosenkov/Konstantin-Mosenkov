@@ -29,7 +29,12 @@
 ![DOCKER](https://img.shields.io/badge/docker-%237ed3e2.svg?style=for-the-badge&logo=docker&logoColor=white)  
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)  
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23fae55c.svg?style=for-the-badge&logo=bootstrap&logoColor=white)  
-![NPM](https://img.shields.io/badge/NPM-%2391f2c3.svg?style=for-the-badge&logo=npm&logoColor=white)  
+![NPM](https://img.shields.io/badge/NPM-%2391f2c3.svg?style=for-the-badge&logo=npm&logoColor=white)
+
+### Codewars:
+
+![codewars](https://www.codewars.com/users/Konstantin%20Mosenkov/badges/large)
+
 ### ⚙️ GitHub statistics:
 
 <table>
