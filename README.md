@@ -13,7 +13,7 @@
 ###
 
 ## 💫 About Me:
-👨‍💻 Frontend Developer from Russia<br/>
+👨‍💻 Frontend Developer from Saint-Petersburg<br/>
 
 
 ## 🌐 Socials: 
