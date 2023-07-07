@@ -9,15 +9,15 @@
 
 ###
 
-## 💫 About Me:
+## About Me:
 👨‍💻 Frontend Developer from Saint-Petersburg<br/>
 
 
-## 🌐 Socials: 
+## Socials: 
 [![TELEGRAM](https://img.shields.io/badge/TELEGRAM-29293e?style=for-the-badge&logo=telegram)](https://t.me/MosenkovKonstantin)
 [![VK](https://img.shields.io/badge/vkontakte-29293e?style=for-the-badge&logo=vk&logoColor=0077FF)](https://vk.com/id344077639)
 
-## 💻 Stack:
+## Stack:
 ![HTML5](https://img.shields.io/badge/html5-%23fb5837.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/css3-%2386c6f4.svg?style=for-the-badge&logo=css3&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/javascript-%23675ec9.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
@@ -29,7 +29,7 @@
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)  
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23fae55c.svg?style=for-the-badge&logo=bootstrap&logoColor=white)  
 ![NPM](https://img.shields.io/badge/NPM-%2391f2c3.svg?style=for-the-badge&logo=npm&logoColor=white)  
-### ⚙️ GitHub статистика:
+### ⚙️ GitHub statistics:
 
 <table>
   <tr>
