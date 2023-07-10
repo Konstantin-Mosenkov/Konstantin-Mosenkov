@@ -4,11 +4,7 @@
     <p align="center">
  <img width="600" src="github-snake.svg" alt="snake"/>
 </p>
-  <img
-    src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif"
-    align="center"
-    style="width: 100%"
-  />
+  
 </div>
 
 ###
