@@ -21,12 +21,11 @@
 <p dir="auto">
   <img src="https://img.shields.io/badge/Svelte-FF3E00?logo=svelte&logoColor=white" height="25" style="max-width: 100%;">
   <img src="https://img.shields.io/badge/SvelteKit-FF3E00?logo=svelte&logoColor=white" height="25" style="max-width: 100%;">
-  <img src="https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white" height="25" style="max-width: 100%;">
   <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black" height="25" style="max-width: 100%;">
   <img src="https://img.shields.io/badge/Redux_Toolkit-764ABC?logo=redux&logoColor=white" height="25" style="max-width: 100%;">
-  <img src="https://img.shields.io/badge/React_Hook_Form-EC5990?logo=react-hook-form&logoColor=white" height="25" style="max-width: 100%;">
   <img src="https://img.shields.io/badge/React_Router-CA4245?logo=react-router&logoColor=white" height="25" style="max-width: 100%;">
   <img src="https://img.shields.io/badge/Axios-5A29E4?logo=axios&logoColor=white" height="25" style="max-width: 100%;">
+  <img src="https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white" height="25" style="max-width: 100%;">
   <img src="https://img.shields.io/badge/Webpack-8DD6F9?logo=webpack&logoColor=black" height="25" style="max-width: 100%;">
   <img src="https://img.shields.io/badge/Jest-C21325?logo=jest&logoColor=white" height="25" style="max-width: 100%;">
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white" height="25" style="max-width: 100%;">
