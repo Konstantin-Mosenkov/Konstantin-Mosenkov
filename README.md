@@ -26,6 +26,17 @@
     <img src="https://camo.githubusercontent.com/e1b545f72f9474bd10758ce31c8d17c0ed807427daed5fd7716c00ac07aeaf66/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4178696f732d3238326333343f6c6f676f3d6178696f73266c6f676f436f6c6f723d356132396534" height="25" data-canonical-src="https://img.shields.io/badge/Axios-282c34?logo=axios&amp;logoColor=5a29e4" style="max-width: 100%;">
     <img src="https://camo.githubusercontent.com/19ba3b2f025f143294acd625830a260681df433f236ac4dfee9f6e2cecdfd441/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5765627061636b2d3238326333343f6c6f676f3d7765627061636b" height="25" data-canonical-src="https://img.shields.io/badge/Webpack-282c34?logo=webpack" style="max-width: 100%;">
     <img src="https://camo.githubusercontent.com/a733a304f3bd3d7ff076e5d4bb08b443558b7a7d87aa67604efef2a33bbf2933/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6573742d3238326333343f6c6f676f3d6a657374266c6f676f436f6c6f723d633231333235" height="25" data-canonical-src="https://img.shields.io/badge/Jest-282c34?logo=jest&amp;logoColor=c21325" style="max-width: 100%;">
+    <img src="https://camo.githubusercontent.com/d6871fc1a601a1e0392bbe8d1aa17b390cf13a4ba29245fb54e7ddc291be3031/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5461696c77696e644353532d3238326333343f6c6f676f3d7461696c77696e64637373" height="25" data-canonical-src="https://img.shields.io/badge/TailwindCSS-282c34?logo=tailwindcss" style="max-width: 100%;">
+    <img src="https://camo.githubusercontent.com/4d43d66cfdce9d8c1f85dbf4a8b3c2de8da676e43271cac018d56e77ca92a4b1/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f416e7444657369676e2d3238326333343f6c6f676f3d616e7464657369676e266c6f676f436f6c6f723d303137306665" height="25" data-canonical-src="https://img.shields.io/badge/AntDesign-282c34?logo=antdesign&amp;logoColor=0170fe" style="max-width: 100%;">
+    <img src="https://camo.githubusercontent.com/72f483c313e08e1c9e387871a82a73d5b3a951da9f6686a1306e510c2375ecb8/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d6174657269616c25323055492d3238326333343f6c6f676f3d6d7569266c6f676f436f6c6f723d303037666666" height="25" data-canonical-src="https://img.shields.io/badge/Material%20UI-282c34?logo=mui&amp;logoColor=007fff" style="max-width: 100%;">
+</p>
+
+## Backend:
+<p dir="auto">
+    <img src="https://camo.githubusercontent.com/fb7517ec8f1eca4a0c06bb7b3e5b3438fc49bf68ed1606e08c7931320c872dd9/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4e6f64654a532d3238326333343f6c6f676f3d6e6f64652e6a73" height="25" data-canonical-src="https://img.shields.io/badge/NodeJS-282c34?logo=node.js" style="max-width: 100%;">
+    <img src="https://camo.githubusercontent.com/e0ff3b354c83751485bf1938b02537e37a04bd5388e7d9718186aac9c4921e60/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f457870726573732d3238326333343f6c6f676f3d65787072657373" height="25" data-canonical-src="https://img.shields.io/badge/Express-282c34?logo=express" style="max-width: 100%;">
+    <img src="https://camo.githubusercontent.com/3f8e7175a220bca7e47653603567b179cf1a521777e3d6e1172a137e6f1e2359/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f506f737467726553514c2d3238326333343f6c6f676f3d706f737467726573716c" height="25" data-canonical-src="https://img.shields.io/badge/PostgreSQL-282c34?logo=postgresql" style="max-width: 100%;">
+    <img src="https://camo.githubusercontent.com/88b1013c45e69fef91db8090cf90aa27dbe28bd2f85f695c1b55b26785ff85cc/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f53657175656c697a652d3238326333343f6c6f676f3d73657175656c697a65" height="25" data-canonical-src="https://img.shields.io/badge/Sequelize-282c34?logo=sequelize" style="max-width: 100%;">
 </p>
 
 ### Codewars:
@@ -37,12 +48,10 @@
 <table>
   <tr>
     <td>
-<!--       <img align="left" src="http://github-readme-streak-stats.herokuapp.com?user=Konstantin-Mosenkov&theme=dark&background=000000" alt="webDev's Github stats" /> -->
-        <img src="https://camo.githubusercontent.com/660fe4f9dee90da7e6357775d49dfa4e019460790d1c5ad098fd9602faa62d34/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d3f757365723d53616c696d6f762d646576267468656d653d746f6b796f6e6967687426686964655f626f726465723d74727565" alt="GitHub Streak" width="49.7%" height="auto" data-canonical-src="https://github-readme-streak-stats.herokuapp.com?user=Konstantin-Mosenkov&amp;theme=tokyonight&amp;hide_border=true" style="max-width: 100%;">
+      <img align="left" src="http://github-readme-streak-stats.herokuapp.com?user=Konstantin-Mosenkov&theme=dark&background=000000" alt="webDev's Github stats" /> 
     </td>
     <td>
-<!--       <img height="195px" align="right" alt="webDev's Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Konstantin-Mosenkov&layout=compact&theme=vision-friendly-dark" /> -->
-      <img src="https://camo.githubusercontent.com/05cd7d985d554dc77ebb18669846a4d954fcfd688033ef051fb8b6518aa0c52b/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d53616c696d6f762d646576266c61796f75743d636f6d70616374267468656d653d746f6b796f6e6967687426686964655f626f726465723d74727565" alt="Top Languages" width="49.7%" height="auto" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=Konstantin-Mosenkov;layout=compact&amp;theme=tokyonight&amp;hide_border=true" style="max-width: 100%;">
+      <img height="195px" align="right" alt="webDev's Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Konstantin-Mosenkov&layout=compact&theme=vision-friendly-dark" /> 
     </td>
   </tr>
 </table>
