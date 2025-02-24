@@ -13,8 +13,8 @@
 
 ## Programming Languages:
 <p dir="auto">
-  <img src="https://camo.githubusercontent.com/70c409576d0022c18a69a7016b03b6148bf40a4fae10bc055cef500efb3d83bd/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6176615363726970742d3238326333343f6c6f676f3d6a617661736372697074" height="25" data-canonical-src="https://img.shields.io/badge/JavaScript-282c34?logo=javascript" style="max-width: 100%;">
-  <img src="https://camo.githubusercontent.com/345fe0d87e3fdccd7ada286d9fc424456679248e365a07035df0e1a3b37da1cf/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f547970655363726970742d3238326333343f6c6f676f3d74797065736372697074266c6f676f436f6c6f723d333637666366" height="25" data-canonical-src="https://img.shields.io/badge/TypeScript-282c34?logo=typescript&amp;logoColor=367fcf" style="max-width: 100%;">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" height="25" style="max-width: 100%;">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" height="25" style="max-width: 100%;">
 </p>
 
 ## Frontend:
