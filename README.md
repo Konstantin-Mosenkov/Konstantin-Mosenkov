@@ -8,7 +8,7 @@
 👨‍💻 Frontend Developer from Saint-Petersburg<br/>
 
 ## Socials: 
-[![TELEGRAM](https://img.shields.io/badge/TELEGRAM-29293e?style=for-the-badge&logo=telegram)](https://t.me/MosenkovKonstantin)
+[![TELEGRAM](https://img.shields.io/badge/TELEGRAM-29293e?style=for-the-badge&logo=telegram)](https://t.me/kmosenkov)
 [![VK](https://img.shields.io/badge/vkontakte-29293e?style=for-the-badge&logo=vk&logoColor=0077FF)](https://vk.com/id344077639)
 
 ## Programming Languages:
