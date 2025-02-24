@@ -20,6 +20,8 @@
 ## Frontend:
 <p dir="auto">
   <img src="https://img.shields.io/badge/Svelte-FF3E00?logo=svelte&logoColor=white" height="25" style="max-width: 100%;">
+  <img src="https://img.shields.io/badge/SvelteKit-FF3E00?logo=svelte&logoColor=white" height="25" style="max-width: 100%;">
+  <img src="https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white" height="25" style="max-width: 100%;">
   <img src="https://camo.githubusercontent.com/411b2306624e76f2f83580d9c5d3bc5560af2617d29a94546bacbf50c1fee2b1/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f52656163742d3238326333343f6c6f676f3d7265616374" height="25" data-canonical-src="https://img.shields.io/badge/React-282c34?logo=react" style="max-width: 100%;"> 
 <img src="https://camo.githubusercontent.com/b8d449831d189fdf6c1d720d00778d5ffdd1589cad8cc8a2cacdef966c0a6b04/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5265647578253230546f6f6c6b69742d3238326333343f6c6f676f3d7265647578266c6f676f436f6c6f723d373634616263" height="25" data-canonical-src="https://img.shields.io/badge/Redux%20Toolkit-282c34?logo=redux&amp;logoColor=764abc" style="max-width: 100%;">
     <img src="https://camo.githubusercontent.com/27726e21564f4d17cf9ef176c6c7dc3f254d6f117acd9f589a8fcfec2d0d419e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5265616374253230486f6f6b253230466f726d2d3238326333343f6c6f676f3d7265616374266c6f676f436f6c6f723d656335393930" height="25" data-canonical-src="https://img.shields.io/badge/React%20Hook%20Form-282c34?logo=react&amp;logoColor=ec5990" style="max-width: 100%;">
